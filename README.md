@@ -27,7 +27,8 @@ This project utilizes K-means clustering and PCA to segment customers effectivel
 3. Run the Jupyter notebooks in the provided sequence for data preprocessing, K-means segmentation, and PCA visualizations.
 
 ### License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
+
+For more details, refer to the [LICENSE](LICENSE) file.
 
 Feel free to reach out for any queries or contributions!
-```
