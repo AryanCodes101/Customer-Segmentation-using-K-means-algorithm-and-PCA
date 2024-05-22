@@ -1,4 +1,3 @@
-```markdown
 ## Customer Segmentation Project Readme
 
 ### Overview
